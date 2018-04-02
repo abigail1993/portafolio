@@ -1943,11 +1943,11 @@
 			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
-			font-size: 0.8em;
+		/*font-size: 0.8em;*/
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				/*font-size: 1em;*/
 			}
 
 /* Icons */

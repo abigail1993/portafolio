@@ -1,0 +1,128 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Inconsolata', monospace;
+}
+
+#menu{
+  background-color:rgba(0,0,0,0.3);
+  color: rgb(236, 11, 11);
+  position: fixed;
+}
+
+#home {
+  background-image: url(../assets/images/fondo.png); 
+ /* background-attachment: fixed;*/
+  background-repeat: no-repeat;
+  background-size: 150%;
+  color: white;
+  height: 100vh;
+  text-align: center;  
+}
+
+.btn-cv {
+  background-color:white;
+  color:#A649BD;
+  font-size: 3vh;
+  padding: 1vh;
+}
+
+.centrado {
+  margin: 15vh 0;
+  font-size: 8vh;
+
+}
+
+.t-inicial {
+  font-size: 20vh;
+
+}
+
+#soy {
+  /*background-image: url(../assets/images/aros1.jpg);*/
+  background-position: bottom;
+  background-size: cover;
+  color:#5A449F;
+  height: 110vh;
+}
+
+#text-soy{
+  font-size: 5vh;
+  margin:30vh 0;
+}
+
+#perfil {
+  width: 70%;
+  margin-top: 23vh;
+  margin-left: 23vh;
+}
+
+#labcar {
+  text-align: center;
+  width: 50vh;
+}
+
+.labc {
+  width: 50vh;
+  margin-left: 50px;
+
+}
+
+#trabajo {
+  background-color:#726FA5;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.text-trab {
+  font-size: 12vh;
+  margin: 5vh;
+}
+
+.descripcion {
+  font-size: 4vh;
+}
+
+.primer {
+  background-color: #A72CA5;
+  padding: 10vh;
+}
+
+.t-prim {
+  background-color: #CF5462;
+  padding: 10vh;
+}
+
+.btn-link {
+  background-color:#5A449F;
+  color: white;
+  font-size: 3vh;
+  padding: 1vh;
+}
+
+#habilidades {
+  background-color:#A649BD;
+  color: white;
+  text-align: center;
+
+}
+
+.iconos {
+  font-size: 10vh;
+  color: white;
+}
+
+.img-log {
+  width: 10vh;
+  margin: 5vh 0;
+}
+
+#contacto {
+  background-image: url(../assets/images/fondo.png);
+  background-repeat: no-repeat; 
+  background-size: 100%;
+  color: white;
+  height: 50vh;
+  text-align: center;
+}

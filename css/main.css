@@ -34,7 +34,7 @@
 }
 
 .t-inicial {
-  font-size: 20vh;
+  font-size: 16vh;
 
 }
 
@@ -64,8 +64,12 @@
 
 .labc {
   width: 50vh;
-  margin-left: 50px;
+  margin: 10px 0px;
+}
 
+.img-val {
+  width: 70vh;
+  margin: 30vh 0vh;
 }
 
 #trabajo {
@@ -97,7 +101,6 @@
 .btn-link {
   background-color:#5A449F;
   color: white;
-  font-size: 3vh;
   padding: 1vh;
 }
 
@@ -118,11 +121,17 @@
   margin: 5vh 0;
 }
 
+.img-log-2 {
+  background-color: white;
+  width: 10vh;
+  margin: 5vh 0;
+}
+
 #contacto {
   background-image: url(../assets/images/fondo.png);
   background-repeat: no-repeat; 
   background-size: 100%;
   color: white;
-  height: 50vh;
+  height: 60vh;
   text-align: center;
 }
